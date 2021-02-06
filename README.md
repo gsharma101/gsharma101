@@ -16,3 +16,13 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
+
+<!--Most Used Languages Stats-->
+
+<img align="left" alt="Gaurav Sharma Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsharma101&theme=light&hide_langs_below=1&hide_border=true" />
+
+<!--GitHub Stats-->
+
+<img align="right" alt="Gaurav Sharna GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gsharma101&show_icons=true&hide_border=true">
+
+<br>
