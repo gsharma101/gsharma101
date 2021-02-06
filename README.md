@@ -30,6 +30,14 @@
 <br>
 
 
+### Languages i am familiar with him
+<img align="left" alt="Python" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png">
+<img align="left" alt="C++" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png">
+<img align="left" alt="HTML" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png">
+<img align="left" alt="CSS" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png">
+<br>
+
+
 ---
 
 
