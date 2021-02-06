@@ -4,7 +4,7 @@
 
 <!-- Basic Introduction -->
 - 🔭 I’m currently working on my skills & Networking with people
-- 🌱 I’m currently learning Full Stack Development & Machine Learning
+- 🌱 Learning Full Stack Development.
 - 👯 I share my knowledge through [YouTube!](https://www.youtube.com/channel/UCjGI95t_UwwX_F-gDubP7YA)
 - 📫 How to reach me: quantumprogrammers010@gmail.com
 - ⚡ No amount of money ever bought a second of time.
