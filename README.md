@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning Full Stack Development & Machine Learning
 - 👯 I share my knowledge through [YouTube!](https://www.youtube.com/channel/UCjGI95t_UwwX_F-gDubP7YA)
 - 📫 How to reach me: quantumprogrammers010@gmail.com
-- 📚 Current Favourite book: Superintelligence: Paths, Dangers, Strategies <sub>by Nick Bostrom</sub>
 - ⚡ No amount of money ever bought a second of time.
 
 ### Get In Touch 📞
