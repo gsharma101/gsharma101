@@ -5,8 +5,10 @@
 <!-- Basic Introduction -->
 - 🔭 I’m currently working on my skills in Competitive Programming
 - 🌱 I’m currently learning Full Stack Development & Machine Learning
-- 👯 I’m looking to collaborate on some projects helping me learn new technologies
-- 📫 How to reach me: sharmag8121@gmail.com
+- 👯 I share my knowledge through [YouTube](<a href="https://www.youtube.com/channel/UCjGI95t_UwwX_F-gDubP7YA">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>)
+- 📫 How to reach me: quantumprogrammers010@gmail.com
 - 📚 Current Favourite book: Superintelligence: Paths, Dangers, Strategies <sub>by Nick Bostrom</sub>
 - ⚡ No amount of money ever bought a second of time.
 
