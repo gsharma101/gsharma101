@@ -27,14 +27,14 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
-<br>
 
 
 ### Languages i am familiar with him
-<img align="left" alt="HTML" width="48px" src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png">
-<img align="left" alt="CSS" width="48px" src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png">
-<img align="left" alt="Python" width="48px" src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png">
-<img align="left" alt="C++" width="48px" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png">
+<img align="left" alt="HTML" width="32px" src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png">
+<img align="left" alt="CSS" width="32px" src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png">
+<img align="left" alt="Python" width="32px" src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png">
+<img align="left" alt="C++" width="32px" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png">
+
 <br>
 
 
