@@ -1,4 +1,15 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gaurav Sharma!](https://gsharma101.github.io/Gaurav-Sharma.github.io/) <br/>
+## little about myself
+<img align="right" alt="Octocat" height="250px" src="images/jarvis.png">
+
+<!-- Basic Introduction -->
+- 🔭 I’m currently working on my skills in Competitive Programming
+- 🌱 I’m currently learning Full Stack Development & Machine Learning
+- 👯 I’m looking to collaborate on some projects helping me learn new technologies
+- 📫 How to reach me: sharmag8121@gmail.com
+- 📚 Current Favourite book: Superintelligence: Paths, Dangers, Strategies <sub>by Nick Bostrom</sub>
+- ⚡ No amount of money ever bought a second of time.
+
 ### Get In Touch 📞
 <a href="https://www.linkedin.com/in/gsharma010/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
