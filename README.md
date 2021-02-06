@@ -29,12 +29,13 @@
 <br />
 
 
-### Technology i am familiar with
-<img align="left" alt="HTML" width="32px" src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png">
-<img align="left" alt="CSS" width="32px" src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png">
-<img align="left" alt="Python" width="32px" src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png">
-<img align="left" alt="C++" width="32px" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png">
-<img align="left" alt="C++" width="32px" src="https://iconscout.com/icon/address-1439784">
+### Languages and Tools
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+<br>
 <br>
 
 <!--Most Used Languages Stats-->
