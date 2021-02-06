@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gaurav Sharma!](https://gsharma101.github.io/Gaurav-Sharma.github.io/) <br/>
 ## Little about myself
-<img align="right" alt="Octocat" height="250px" src="images/jarvis.png">
+<img align="right" alt="Octocat" height="250px" src="jarvis.png">
 
 <!-- Basic Introduction -->
 - 🔭 I’m currently working on my skills in Competitive Programming
