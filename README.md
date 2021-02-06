@@ -3,7 +3,7 @@
 <img align="right" alt="Octocat" height="250px" src="jarvis.png">
 
 <!-- Basic Introduction -->
-- 🔭 I’m currently working on my skills in Competitive Programming
+- 🔭 I’m currently working on my skills & Networking with people
 - 🌱 I’m currently learning Full Stack Development & Machine Learning
 - 👯 I share my knowledge through [YouTube!](https://www.youtube.com/channel/UCjGI95t_UwwX_F-gDubP7YA)
 - 📫 How to reach me: quantumprogrammers010@gmail.com
