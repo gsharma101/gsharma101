@@ -29,19 +29,21 @@
 <br />
 
 
-### Languages i am familiar with him
+### Technology i am familiar with
 <img align="left" alt="HTML" width="32px" src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png">
 <img align="left" alt="CSS" width="32px" src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png">
 <img align="left" alt="Python" width="32px" src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png">
 <img align="left" alt="C++" width="32px" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png">
-
+<img align="left" alt="C++" width="32px" src="https://iconscout.com/icon/address-1439784">
 <br>
+
+<!--Most Used Languages Stats-->
+
 
 
 ---
 
 
-<!--Most Used Languages Stats-->
 
 <img align="left" alt="Gaurav Sharma Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsharma101&theme=light&hide_langs_below=1&hide_border=true" />
 
