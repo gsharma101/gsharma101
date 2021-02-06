@@ -8,7 +8,7 @@
 - 👯 I share my knowledge through [YouTube!](https://www.youtube.com/channel/UCjGI95t_UwwX_F-gDubP7YA)
 - 📫 How to reach me: quantumprogrammers010@gmail.com
 - ⚡ No amount of money ever bought a second of time.
-- 👤 Jarvis my assistant.
+- 👤 Jarvis is my assistant.
 
 ### Get In Touch 📞
 <a href="https://www.linkedin.com/in/gsharma010/">
