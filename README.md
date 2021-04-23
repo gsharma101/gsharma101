@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my skills & Networking with people
 - 🌱 Learning Full Stack Development.
 - 👯 I share my knowledge through [YouTube!](https://www.youtube.com/channel/UCjGI95t_UwwX_F-gDubP7YA)
-- 📫 How to reach me: quantumprogrammers010@gmail.com
+- 📫 How to reach me: sharmag8121@gmail.com
 - ⚡ No amount of money ever bought a second of time.
 - 👤 Jarvis is my assistant.
 
