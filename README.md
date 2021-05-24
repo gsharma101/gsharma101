@@ -51,9 +51,5 @@
 
 <!--GitHub Stats-->
 
-<img align="right" alt="Gaurav Sharna GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gsharma101&show_icons=true&hide_border=true">
-
+![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=gsharma101&show_icons=true&hide_border=true)
 <br>
-<!--GitHub Streak-->
-
-<img align="right" alt="Gaurav-Sharma's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gsharma101&theme=light&hide_border=true">
