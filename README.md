@@ -4,7 +4,7 @@
 
 I'am Gaurav Sharma junior software developer from India. I'm deeply passionate about software development, computers and cyber security. Apart from that i have a habit of reading book of different joner like self-help, business, non-fiction etc;
 
-- 🌍  I'm based in Chandigarh, India
+- 🌍  I'm based in Noida, Uttar Pradesh, India
 - 🖥️  See my portfolio at [My Portfolio](https://gsharma010.netlify.app/)
 - ✉️  You can contact me at [sharmag8121@gmail.com](mailto:sharmag8121@gmail.com)
 - 🧠  I'm learning Full-Stack Development in JavaScript
