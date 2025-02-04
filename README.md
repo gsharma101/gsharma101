@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with an intere
 - 🔭 I’m currently working on various open-source projects.
 - 🌱 I’m always learning and exploring new technologies.
 - 💬 Ask me about TypeScript, JavaScript, and web development.
-- 📫 How to reach me: [gsharma101@example.com](mailto:gsharma101@example.com)
+- 📫 How to reach me: [sharmag8121@gmail.com](mailto:sharmag8121@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ## My Skills
