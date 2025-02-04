@@ -1,14 +1,30 @@
-# Hi 👋 My name is Gaurav Sharma
+# Hello, I'm Gaurav Sharma! 👋
 
-## I am a Full-Stack JavaScript Developer
+Welcome to my GitHub profile! I'm a passionate software developer with an interest in creating innovative solutions and improving existing ones.
 
-I'am Gaurav Sharma junior software developer from India. I'm deeply passionate about software development, computers and cyber security. Apart from that i have a habit of reading book of different joner like self-help, business, non-fiction etc;
+## About Me
 
-- 🌍  I'm based in Noida, Uttar Pradesh, India
-- 🖥️  See my portfolio at [My Portfolio](https://gsharma010.netlify.app/)
-- ✉️  You can contact me at [sharmag8121@gmail.com](mailto:sharmag8121@gmail.com)
-- 🧠  I'm learning Full-Stack Development in JavaScript
-- 🤝  I'm open to collaborating on projects related to web development and even happy to explore more about other stuf.
-- ⚡  No amount of money ever bought a second of time
+- 🔭 I’m currently working on various open-source projects.
+- 🌱 I’m always learning and exploring new technologies.
+- 💬 Ask me about Python, JavaScript, and web development.
+- 📫 How to reach me: [gsharma101@example.com](mailto:gsharma101@example.com)
+- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gsharma101&theme=dark)](https://git.io/streak-stats)
+## My Skills
+
+- **Languages:** php, JavaScript, Java, C/C++
+- **Frameworks:** React, Node.js, Laravel, Express
+- **Tools:** Git, Docker, AWS, Postman, Prisma ORM
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+## GitHub Stats
+
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsharma101&show_icons=true&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/gsharma101)
+- [Twitter](https://twitter.com/gsharma101)
+- [Personal Website](https://gauravsharma.co.in)
+
+Thank you for visiting my profile. Have a great day! 😊
