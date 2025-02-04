@@ -6,13 +6,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with an intere
 
 - 🔭 I’m currently working on various open-source projects.
 - 🌱 I’m always learning and exploring new technologies.
-- 💬 Ask me about Python, JavaScript, and web development.
+- 💬 Ask me about TypeScript, JavaScript, and web development.
 - 📫 How to reach me: [gsharma101@example.com](mailto:gsharma101@example.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ## My Skills
 
-- **Languages:** php, JavaScript, Java, C/C++
+- **Languages:** php, JavaScript,TypeScript, Java, C/C++
 - **Frameworks:** React, Node.js, Laravel, Express
 - **Tools:** Git, Docker, AWS, Postman, Prisma ORM
 - **Databases:** MySQL, PostgreSQL, MongoDB
@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with an intere
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/gsharma101)
-- [Twitter](https://twitter.com/gsharma101)
+- [LinkedIn](https://www.linkedin.com/in/gsharma010)
+- [Twitter](https://twitter.com/gsharma010)
 - [Personal Website](https://gauravsharma.co.in)
 
 Thank you for visiting my profile. Have a great day! 😊
