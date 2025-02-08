@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with an intere
 
 ## About Me
 
-- 🔭 I’m currently working on various open-source projects.
+- 🔭 I’m currently working as software engineer at HCL Technologies
 - 🌱 I’m always learning and exploring new technologies.
 - 💬 Ask me about TypeScript, JavaScript, and web development.
 - 📫 How to reach me: [sharmag8121@gmail.com](mailto:sharmag8121@gmail.com)
