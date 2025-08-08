@@ -39,7 +39,7 @@ I believe in writing clean, maintainable code and constantly improving my craft.
 ### 🎮 Monopoly Companion App
 
 A React + Framer Motion web app to digitize Monopoly game management — tracks money, properties, and cards.
-[🔗 View Repository](https://github.com/gsharma101/monopoly-companion)
+[🔗 View Repository](https://github.com/gsharma101/Hasbro-Monopoly-Deluxe-Edition-Board-Companion)
 
 ### 📚 Book Management API
 
