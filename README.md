@@ -1,30 +1,74 @@
-# Hello, I'm Gaurav Sharma! 👋
+# 👋 Hey, I'm **Gaurav Sharma**
 
-Welcome to my GitHub profile! I'm a passionate software developer with an interest in creating innovative solutions and improving existing ones.
+💻 **Software Engineer | Full-Stack Developer | Problem Solver**
 
-## About Me
+I'm passionate about building scalable, user-friendly applications and exploring new technologies to create impactful solutions.
+I believe in writing clean, maintainable code and constantly improving my craft.
 
-- 🔭 I’m currently working as software engineer at HCL Technologies
-- 🌱 I’m always learning and exploring new technologies.
-- 💬 Ask me about TypeScript, JavaScript, and web development.
-- 📫 How to reach me: [sharmag8121@gmail.com](mailto:sharmag8121@gmail.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
+---
 
-## My Skills
+## 🚀 About Me
 
-- **Languages:** php, JavaScript,TypeScript, Java, C/C++
-- **Frameworks:** React, Node.js, Laravel, Express
-- **Tools:** Git, Docker, AWS, Postman, Prisma ORM
-- **Databases:** MySQL, PostgreSQL, MongoDB
+* 🔭 **Currently:** Software Engineer at **HCL Technologies**
+* 🌱 **Learning:** Advanced full-stack development, cloud-native applications, and system design
+* 💬 **Ask me about:** JavaScript, TypeScript, Java, backend architectures, and API design
+* 📫 **Reach me at:** [sharmag8121@gmail.com](mailto:sharmag8121@gmail.com)
+* ⚡ **Fun fact:** I love solving puzzles, playing chess, and occasionally building side projects just for fun
 
-## GitHub Stats
+---
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsharma101&show_icons=true&theme=radical)
+## 🛠️ Tech Stack
 
-## Connect with Me
+**Languages**
+`JavaScript` `TypeScript` `Java` `PHP` `C/C++`
 
-- [LinkedIn](https://www.linkedin.com/in/gsharma010)
-- [Twitter](https://twitter.com/gsharma010)
-- [Personal Website](https://gauravsharma.co.in)
+**Frameworks & Libraries**
+`React` `Next.js` `Node.js` `Express` `Laravel` `Spring Boot`
 
-Thank you for visiting my profile. Have a great day! 😊
+**Databases**
+`PostgreSQL` `MySQL` `MongoDB`
+
+**Tools & Platforms**
+`Git` `Docker` `AWS` `Postman` `Prisma ORM`
+
+---
+
+## 📌 Pinned Projects
+
+### 🎮 Monopoly Companion App
+
+A React + Framer Motion web app to digitize Monopoly game management — tracks money, properties, and cards.
+[🔗 View Repository](https://github.com/gsharma101/monopoly-companion)
+
+### 📚 Book Management API
+
+Spring Boot + PostgreSQL REST API for managing books with CRUD operations and future scalability plans.
+[🔗 View Repository](https://github.com/gsharma101/book-management-api)
+
+### 🛒 E-Commerce App
+
+Full-stack project with React (frontend) & Spring Boot (backend) — includes authentication, cart, and order management.
+[🔗 View Repository](https://github.com/gsharma101/Ecommerce-react-spring-boot)
+
+---
+
+## 📊 GitHub Stats
+
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsharma101\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsharma101\&layout=compact\&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+* [**LinkedIn**](https://www.linkedin.com/in/gsharma010)
+* [**Twitter / X**](https://twitter.com/gsharma010)
+* [**Portfolio Website**](https://gauravsharma.co.in)
+
+---
+
+💡 *"Code is like humor. When you have to explain it, it’s bad."*
+
+---
+
+If you want, I can **make a banner image** for the top of your README with your name, role, and a cool tech background — that would give it a more professional “GitHub profile card” feel.
