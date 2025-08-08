@@ -17,19 +17,20 @@ I believe in writing clean, maintainable code and constantly improving my craft.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Languages**
-`JavaScript` `TypeScript` `Java` `PHP` `C/C++`
+**💻 Languages**  
+<kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>Java</kbd> <kbd>PHP</kbd> <kbd>C/C++</kbd>
 
-**Frameworks & Libraries**
-`React` `Next.js` `Node.js` `Express` `Laravel` `Spring Boot`
+**🖼 Frameworks & Libraries**  
+<kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>Laravel</kbd> <kbd>Spring Boot</kbd>
 
-**Databases**
-`PostgreSQL` `MySQL` `MongoDB`
+**🗄 Databases**  
+<kbd>PostgreSQL</kbd> <kbd>MySQL</kbd> <kbd>MongoDB</kbd>
 
-**Tools & Platforms**
-`Git` `Docker` `AWS` `Postman` `Prisma ORM`
+**⚙️ Tools & Platforms**  
+<kbd>Git</kbd> <kbd>Docker</kbd> <kbd>AWS</kbd> <kbd>Prisma</kbd> <kbd>Postman</kbd>
+
 
 ---
 
