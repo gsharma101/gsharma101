@@ -71,5 +71,3 @@ Full-stack project with React (frontend) & Spring Boot (backend) — includes au
 💡 *"Code is like humor. When you have to explain it, it’s bad."*
 
 ---
-
-If you want, I can **make a banner image** for the top of your README with your name, role, and a cool tech background — that would give it a more professional “GitHub profile card” feel.
